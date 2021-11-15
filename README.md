@@ -1,5 +1,5 @@
 # Членови на тимот:
-<img align="ceneter"  src="https://user-images.githubusercontent.com/94176106/141777065-82731fea-a282-4544-aba5-7e8f26a53588.png">  
+<img align="left"  src="https://user-images.githubusercontent.com/94176106/141777065-82731fea-a282-4544-aba5-7e8f26a53588.png">  
 1. Александар Буџакоски 191026 <br />
 2. Ана Дрогришка 191024 <br />
 3. Душко Аврамоски 191143 <br />
